@@ -2,8 +2,8 @@
 
 ### <b>Description:</b>
 This is a supervised (classification) machine learning capstone project on Cardiovascular risk prediction. 
+![CVD-the-facts_3-01-(2)](https://user-images.githubusercontent.com/121633990/210383604-2c02182b-d317-4101-9ab8-74fc5a21c62d.png)
 
-![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
 ### <b>Problem statement:</b>
 Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 18.6 million lives each year, which accounts for 33% of all the global deaths. CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease and other conditions. More than four out of five CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.
