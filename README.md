@@ -12,11 +12,6 @@ It is important to detect cardiovascular disease as early as possible so that ma
 
 Our main aim here is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD).
 
-![pic2](https://user-images.githubusercontent.com/85065799/202833341-89899418-1a91-4113-93f2-f4658ab4be6e.jpg)
-
-![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
-
-#### <b>Note:</b> Dataset is provided by the company, Alma Better.
 
 ### <b>Dataset description:</b> 
 The problem and aim stated above can be solved with the help of machine learning models and the data that we have. The dataset is from an ongoing cardiovascular study on residents of the town of Framingham, Massachusetts. The dataset provides the patients’ information. It includes over 4,000 records and 15 attributes.
