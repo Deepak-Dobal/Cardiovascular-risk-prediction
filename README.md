@@ -1,7 +1,7 @@
 # Cardiovascular Risk Prediction 
 
 ### <b>Description:</b>
-This is a supervised (classification) machine learning capstone project on Cardiovascular risk prediction, given by [Alma Better](https://www.almabetter.com/). 
+This is a supervised (classification) machine learning capstone project on Cardiovascular risk prediction. 
 
 ![rainbow](https://user-images.githubusercontent.com/85065799/204543278-26c507b6-400a-42e0-852f-2e09362f6e12.png)
 
@@ -130,10 +130,6 @@ Each attribute is a potential risk factor. These attributes include demographic,
 
 If you find any mistakes or have any suggestions for me, please reach out to me, all the criticism is heartly welcomed.
 
-You can also reach out to me for project collaborations.
 
-My Email Id - <u>syedshabbir107@gmail.com</u>
 
-My LinkedIn profile - [Profile](https://www.linkedin.com/in/syed-adnan-s-2b899b228/)</b>
-
-### Thankyou for tagging along to the end.
+### Thankyou for your time 
